@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Travel Blog</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="profile_name">Khalid Idouarab</string>
+    <string name="rating">4.4</string>
+    <string name="views">(2545 views)</string>
+    <string name="description">Australia is one of the most popular travel destinations in the world.</string>
+</resources>
